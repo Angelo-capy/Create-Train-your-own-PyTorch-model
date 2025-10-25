@@ -1,1 +1,3 @@
 # Create-Train-your-own-PyTorch-model
+
+# En este entretenido y a su vez demandante proyecto me embarque en el mundo del analisis profundo de datos, teniendo una herramienta tan completa como lo es PyTorch fue una experiencia bastante buena y a su vez retadora, pues jamas habia usado este tipo de herramientas para el analisis de datos, a su vez, el tener cerca mi primer encuentro con el desarrollo movil tambien supuso un reto. En este repositorio se podran encontrar el archivo del learning que se llevo acabo y a su vez los archivos para el Android Studio los cuales puedes probar sin compromiso alguno.
